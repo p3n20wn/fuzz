@@ -1,3 +1,6 @@
+# Summary
+There's an `UndefinedBehavior` bug in JPEGTRAN.(https://github.com/cloudflare/jpegtran)
+
 # Details
  ![image](https://github.com/user-attachments/assets/9d8b40a7-b97b-4fdc-ad8d-cd1231ee2c1e)
 
